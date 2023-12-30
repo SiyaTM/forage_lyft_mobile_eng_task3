@@ -1,7 +1,7 @@
 # forage_lyft_mobile_eng_task3
 Swift-Add a map with User Location
 
-# Backgrounf information
+# Background information
 Time to team up with Marguerite one more time! Now that your rideshare app has a ride history capability, it also needs to be able to order a ride for your user. Within the Swift language work with Marguerite to develop ride request functionality in your app. 
 
 Part of this task includes adding a map showing a user’s location to your app. Once you have tackled this task and the previous one you have taken important steps in developing a rideshare app. Put your UI skills to the test again and help your users get found by our drivers!
